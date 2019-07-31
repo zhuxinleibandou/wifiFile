@@ -16,4 +16,4 @@ pod 'CocoaHTTPServer'
 
 
 
-![IMG_6682](https://github.com/zhuxinleibandou/wifiFile/Wi-Fi传输文件/IMG_6682.PNG)
+![IMG_6682](https://github.com/zhuxinleibandou/wifiFile/blob/master/IMG_6682.PNG)
